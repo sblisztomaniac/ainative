@@ -14,10 +14,6 @@ const JustTheBeginning: React.FC = () => {
             Vibe Coding isn't just a workshop — it's the start of a new way of building.
           </p>
           
-          <p className="text-gray-600 mb-6 leading-relaxed">
-            We're creating a trusted global space for builders, artists, and thinkers who want to use AI to express, ship, and transform. This first session is your entry point into a radically different approach to creation.
-          </p>
-          
           <p className="text-gray-600 mb-10 leading-relaxed">
             After you RSVP, you'll get an email and WhatsApp invite with all the workshop details. The session is live and interactive — come ready to learn, build, and vibe.
           </p>
